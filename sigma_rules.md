@@ -155,9 +155,9 @@ level: medium
     Level: The severity of the alert, which can be low, medium, or high. A "medium" level means the alert requires attention but is not immediately critical, while a "high" level indicates a more urgent situation.
 
 **Components:**
-    Detection: What malicious behaviour the rule searching for.
-    Logsource: What types of logs this detection should search over.
-    Metadata:  Other information about the detection.
+   - Detection: What malicious behaviour the rule searching for.
+   - Logsource: What types of logs this detection should search over.
+   - Metadata:  Other information about the detection.
 ``` yaml 
     detection: 
      selection:
