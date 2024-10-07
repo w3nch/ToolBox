@@ -6,14 +6,20 @@ Welcome to the **Daily Learning Guide**! This repository is designed to help you
 
 To get started with Sigma CLI, follow these steps:
 
-1. **Clone the Sigma CLI repository:**
+- **Clone the Sigma CLI repository:**
    ```bash
    git clone https://github.com/SigmaHQ/sigma-cli.git
-cd sigma-cli
-poetry install && poetry shell
-sigma --version```
-2. **nstall dependencies using Poetry:**
+   cd sigma-cli
+   poetry install && poetry shell
+   sigma --version ```
+   
+- **install dependencies using Poetry:**
 
 ```bash
 poetry install && poetry shell
+```
+- **Verify the installation:**
+ ```bash
+sigma --version
+sigma plugin list
 ```
