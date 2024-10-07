@@ -1,6 +1,6 @@
 # 🧠 Daily Learning Guide for Sigma CLI
 
-Welcome to the **Daily Learning Guide**! This repository is designed to help you understand how to use Sigma CLI effectively, create detection rules, and convert them into formats compatible with various backends like Splunk.
+Welcome to the **Daily Learning Guide**! This repository is designed to help you understand how to use Sigma CLI effectively, create detection rules, and convert them into formats compatible with various backends like Splunk,Elk,and etc.
 
 ## 🚀 Installation
 
@@ -21,5 +21,14 @@ poetry install && poetry shell
 - **Verify the installation:**
  ```bash
 sigma --version
+  ```
+Example output:
+```bash
 sigma plugin list
++----------------------+----------+---------+--------------------------------------------------------------+-------------+
+| Identifier           | Type     | State   | Description                                                  | Compatible? |
++----------------------+----------+---------+--------------------------------------------------------------+-------------+
+| splunk               | backend  | stable  | Splunk backend for conversion into SPL ...                   | yes         |
+...
++----------------------+----------+---------+--------------------------------------------------------------+-------------+
 ```
