@@ -156,11 +156,11 @@ level: medium
 
 **Components:**
     Detection: What malicious behaviour the rule searching for.
-    ```yaml
-    detection: 
-      selection:
-        displaymessage: Max sign in attempts exceeded
-    condition: selection
-    ```
     Logsource: What types of logs this detection should search over.
     Metadata:  Other information about the detection.
+``` yaml 
+    detection: 
+     selection:
+        displaymessage: Max sign in attempts exceeded
+    condition: selection
+```
