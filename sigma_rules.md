@@ -153,3 +153,14 @@ level: medium
 8. Alert Level
 
     Level: The severity of the alert, which can be low, medium, or high. A "medium" level means the alert requires attention but is not immediately critical, while a "high" level indicates a more urgent situation.
+
+**Components:**
+    Detection: What malicious behaviour the rule searching for.
+    ```yaml
+    detection: 
+      selection:
+        displaymessage: Max sign in attempts exceeded
+    condition: selection
+    ```
+    Logsource: What types of logs this detection should search over.
+    Metadata:  Other information about the detection.
