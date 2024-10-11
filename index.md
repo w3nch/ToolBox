@@ -1,28 +1,33 @@
-# Wrench-Learnings
+# ToolBox
 
-Welcome to **Wrench-Learnings**, your ultimate hub for mastering practical tools and skills. Dive into our learning guides and resources to level up your knowledge!
+Welcome to **ToolBox**, your go-to resource for mastering practical skills and tools in cybersecurity, threat detection, and incident response. Whether you're just starting out or an experienced professional, our comprehensive guides will help you sharpen your knowledge and stay ahead in this ever-evolving field.
+
+Dive into our learning guides and resources to elevate your expertise!
 
 ---
 
 ## 📚 Available Guides
 
-Explore our curated guides below:
+Explore our curated, in-depth learning modules below:
 
-- [Introduction to Sigma Rules](./sigma_rules.md)  
-  Learn the basics of writing and managing Sigma rules for threat detection.
+- [**Introduction to Sigma Rules**](./sigma_rules.md)  
+  **Master the basics of Sigma rules** and learn how to write effective detection rules for various platforms. Understand the key structure of rules, common use cases, and how to leverage Sigma in modern SOC environments. Get started with tools that streamline your workflow, like [Sigma Rule Converter](https://sigconverter.io).
 
-- [Honeypots and Their Benefits](./honeypots.md)  
-  Discover how honeypots work and how they can help detect and learn from cyber threats.
+- [**Honeypots and Their Benefits**](./honeypots.md)  
+  **What are honeypots** and how do they help? Delve into the world of decoy systems designed to trap attackers. Learn how honeypots can help you **analyze malicious behaviour**, gather threat intelligence, and develop defence strategies. Explore a variety of open-source honeypots, including [T-Pot](https://github.com/telekom-security/tpotce) and [TheHive](https://github.com/TheHive-Project/TheHive).
 
-- [SOC Overview and Key Functions](./soc_overview.md)  
-  Understand the structure, roles, and tools involved in a Security Operations Center (SOC).
+- [**SOC Overview and Key Functions**](./soc_overview.md)  
+  Get an **overview of a Security Operations Center (SOC)**, its roles, and core functions. Understand how SOCs work to monitor, detect, and respond to threats. Learn about the critical importance of people, processes, and technology in a SOC environment. Discover key tools like SIEM, SOAR, and EDR systems that help SOC teams protect your infrastructure.
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Quick Start with Sigma
 
-### Clone the Project
+### How to Get Started
+
+To begin using Sigma rules, follow these steps:
 
 ```bash
-git clone https://github.com/YourUsername/Wrench-Learnings.git
-cd Wrench-Learnings
+git clone https://github.com/w3nch/ToolBox.git
+cd ToolBox
+```
