@@ -5,12 +5,6 @@ Welcome to the **Daily Learning Registry**! This project is designed to serve as
 
 ## 📚 Project Overview
 
-... (rest of your content)
-
-Welcome to the **Daily Learning Registry**! This project is designed to serve as a comprehensive repository for all my daily learnings, including tools, one-liners, tricks, techniques, methodologies, and frameworks that I'm exploring in my ongoing journey to enhance my knowledge and skills.
-
-## 📚 Project Overview
-
 The **Daily Learning Registry** aims to:
 
 - **Document Daily Learnings**: Keep track of the concepts, tools, and techniques I encounter each day. This will help reinforce my understanding and serve as a quick reference in the future.
