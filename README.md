@@ -1,5 +1,5 @@
 # Daily Learning Registry
-
+![Daily Learning Registry Logo](https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif)
 Welcome to the **Daily Learning Registry**! This project is designed to serve as a comprehensive repository for all my daily learnings, including tools, one-liners, tricks, techniques, methodologies, and frameworks that I'm exploring in my ongoing journey to enhance my knowledge and skills.
 
 ## 📚 Project Overview
