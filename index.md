@@ -25,7 +25,7 @@ Explore our curated, in-depth learning modules below:
   
 <br>
 
-- [**Wireshark Basics and Network Traffic Analysis**](./wireshark.md)  
+- [**Wireshark Basics and Network Traffic Analysis**](./Wireshark.md)  
   Learn how to use **Wireshark**, one of the most powerful tools for network traffic analysis. Understand how to capture, filter, and analyze packets to identify potential security issues or troubleshoot network performance. Master key protocols, packet structures, and real-time monitoring to gain insights into your network's behaviour and detect suspicious activity.
 
 ---
