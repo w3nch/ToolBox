@@ -1,6 +1,7 @@
 # Daily Learning Registry
 
 <img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" alt="Daily Learning Registry Logo" width="300" height="300">
+<div class="tenor-gif-embed" data-postid="16730883" data-share-method="host" data-aspect-ratio="1.0596" data-width="100%"><a href="https://tenor.com/view/hacker-pc-meme-matrix-codes-gif-16730883">Hacker Pc GIF</a>from <a href="https://tenor.com/search/hacker-gifs">Hacker GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # Daily Learning Registry
 
