@@ -79,6 +79,47 @@ A SOC uses various security tools, such as:
     Escalate issues to L2/L3 if necessary.
     Recommend resolutions or improvements based on findings.
 
+## Common Threats
+
+1. **Social Engineering**  
+   Social engineering involves manipulating individuals into divulging confidential or personal information that can be used for fraudulent purposes. Attackers exploit psychological factors to trick victims into making security mistakes.
+   - **Phishing**: A method where attackers send fraudulent emails pretending to be from reputable sources to steal personal information, such as login credentials or credit card numbers.
+   - **Quishing**: A variant of phishing that uses QR codes to direct victims to malicious sites or to install malware.
+   - **Vishing**: Voice phishing, where attackers use phone calls to trick individuals into providing sensitive information, often posing as legitimate entities such as banks or government agencies.
+   - **Whaling**: A highly targeted phishing attack directed at senior executives or important figures within an organization to gain access to sensitive corporate information.
+
+2. **Identity Compromise**  
+   Identity compromise refers to unauthorized access to personal accounts or systems with the intent to carry out malicious activities, such as data theft or fraud.
+   - **Credential Dumps**: Collections of usernames and passwords stolen from data breaches that attackers use to gain access to various accounts.
+   - **Brute Force Attacks**: Automated methods used to guess passwords by trying numerous combinations until the correct one is found, often facilitated by powerful computing resources.
+   - **Social Engineering**: Utilizing manipulation tactics to persuade individuals to disclose their login information or security questions that can be exploited.
+
+3. **Malware**  
+   Malware (malicious software) is designed to disrupt, damage, or gain unauthorized access to computer systems and networks. It is often used for financial gain or to cause harm.
+   - **Worm**: A type of malware that replicates itself to spread to other computers without needing a host file.
+   - **Spyware**: Software that secretly monitors user activity and collects information without the user’s knowledge, often used for identity theft.
+   - **Adware**: Software that displays unwanted advertisements on the user’s device, often bundled with free software, and may track user behavior.
+   - **Ransomware**: A form of malware that encrypts the victim's data, rendering it inaccessible, and demands payment (usually in cryptocurrency) for the decryption key.
+   - **Trojan**: Malware disguised as legitimate software that, once installed, can create backdoors for attackers to gain access to the system.
+   - **Fileless Malware**: A sophisticated type of malware that operates in-memory, making it difficult to detect as it does not leave traditional file-based footprints.
+
+4. **Vulnerable Software**  
+   This refers to applications or systems that have known security flaws or vulnerabilities due to outdated software or insufficient security controls. Attackers can exploit these vulnerabilities to gain unauthorized access or control over systems.
+   - Regular updates and patch management are crucial to mitigate risks associated with vulnerable software.
+
+5. **Sensitive Data Exposure**  
+   Sensitive data exposure occurs when sensitive information is improperly protected, leading to unauthorized access. This can result from poor encryption practices, misconfigured databases, or insecure data transmission methods.
+   - Organizations must implement strong data protection measures, including encryption and secure access controls, to safeguard sensitive information.
+
+6. **Supply Chain Compromise**  
+   Supply chain compromise involves attacks that target the vulnerabilities in the supply chain of products or services. Attackers may infiltrate third-party vendors or software updates to gain access to larger organizations.
+   - This can lead to significant data breaches or system compromises, highlighting the importance of securing the entire supply chain.
+
+
+
+Understanding these common threats is crucial for developing effective security measures and strategies to protect against potential attacks. Regular training and awareness programs can help individuals and organizations remain vigilant against these evolving threats.
+
+
 ## Summary
 
 The SOC's main goal is to protect the Confidentiality, Integrity, and Availability of an organization's data and systems, ensuring a secure and stable environment.
