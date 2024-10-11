@@ -12,8 +12,7 @@ Explore our curated, in-depth learning modules below:
 
 - [**Introduction to Sigma Rules**](./sigma_rules.md)  
   **Master the basics of Sigma rules** and learn how to write effective detection rules for various platforms. Understand the key structure of rules, common use cases, and how to leverage Sigma in modern SOC environments. Get started with tools that streamline your workflow, like [Sigma Rule Converter](https://sigconverter.io).
-  
-<br>
+<be>
 
 - [**Honeypots and Their Benefits**](./honeypots.md)  
   **What are honeypots** and how do they help? Delve into the world of decoy systems designed to trap attackers. Learn how honeypots can help you **analyze malicious behaviour**, gather threat intelligence, and develop defence strategies. Explore a variety of open-source honeypots, including [T-Pot](https://github.com/telekom-security/tpotce) and [TheHive](https://github.com/TheHive-Project/TheHive).
