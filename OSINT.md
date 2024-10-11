@@ -15,11 +15,11 @@ Understanding the potential usage and reputation of an IP address can help ident
 - [AlienVault Open Threat Exchange (OTX)](https://otx.alienvault.com): A community-driven platform that provides threat intelligence data.
 - [IPVoid](https://www.ipvoid.com): Checks the reputation of an IP address and provides a comprehensive report.
 
----
+
 
 ## 2. Domain Reputation / Information
 
-Analyzing the behavior and metadata associated with a domain of interest can help assess its reputation and identify potential risks.
+Analyzing the bebehaviournd metadata associated with a domain of interest can help assess its reputation and identify potential risks.
 
 **Common Tools:**  
 The same tools used for IP reputation can also be applied to domain reputation analysis:
@@ -29,11 +29,11 @@ The same tools used for IP reputation can also be applied to domain reputation a
 - [AlienVault OTX](https://otx.alienvault.com)
 - [IPVoid](https://www.ipvoid.com)
 
----
+
 
 ## 3. File Reputation
 
-File reputation analysis involves identifying characteristics and behaviors associated with a specific file to determine if it poses a threat.
+File reputation analysis involves identifying characteristics and bebehavioursssociated with a specific file to determine if it poses a threat.
 
 **Common Tools:**
 - [VirusTotal](https://www.virustotal.com): Analyzes files to detect malicious content.
@@ -41,11 +41,11 @@ File reputation analysis involves identifying characteristics and behaviors asso
 - [Joe Sandbox](https://www.joesandbox.com): A comprehensive analysis platform for malware.
 - [Hybrid Analysis](https://www.hybrid-analysis.com): A free malware analysis service for detecting malicious content.
 
----
+
 
 ## 4. Threat Intelligence
 
-Threat intelligence aims to uncover additional artifacts that provide pivot opportunities and insights into the motives and actions of threat actors during an investigation.
+Threat intelligence aims to uncover additional arartefactshat provide pivot opportunities and insights into the motives and actions of threat actors during an investigation.
 
 **Common Tools:**
 - [VirusTotal](https://www.virustotal.com)
@@ -54,4 +54,4 @@ Threat intelligence aims to uncover additional artifacts that provide pivot oppo
 - [MISP (Malware Information Sharing Platform)](https://www.misp-project.org): An open-source threat intelligence platform for sharing structured threat information.
 - [Robtex](https://www.robtex.com): Provides information on IP addresses, domains, and DNS data.
 
----
+
