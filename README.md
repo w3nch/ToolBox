@@ -1,6 +1,6 @@
 # Daily Learning Registry
 
-<img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" alt="Daily Learning Registry Logo" width="300" height="200">
+<img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" alt="Daily Learning Registry Logo" width="300" height="300">
 
 # Daily Learning Registry
 
