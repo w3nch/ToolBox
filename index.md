@@ -30,13 +30,6 @@ Explore our curated, in-depth learning modules below:
 
 ---
 
-## 🚀 Quick Start with Sigma
 
-### How to Get Started
 
-To begin using Sigma rules, follow these steps:
 
-```bash
-git clone https://github.com/w3nch/ToolBox.git
-cd ToolBox
-```
