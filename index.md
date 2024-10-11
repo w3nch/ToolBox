@@ -12,6 +12,7 @@ Explore our curated, in-depth learning modules below:
 
 - [**Introduction to Sigma Rules**](./sigma_rules.md)  
   **Master the basics of Sigma rules** and learn how to write effective detection rules for various platforms. Understand the key structure of rules, common use cases, and how to leverage Sigma in modern SOC environments. Get started with tools that streamline your workflow, like [Sigma Rule Converter](https://sigconverter.io).
+  
 <br>
 
 - [**Honeypots and Their Benefits**](./honeypots.md)  
@@ -25,7 +26,7 @@ Explore our curated, in-depth learning modules below:
 <br>
 
 - [**Wireshark Basics and Network Traffic Analysis**](./wireshark.md)  
-  Learn how to use **Wireshark**, one of the most powerful tools for network traffic analysis. Understand how to capture, filter, and analyze packets to identify potential security issues or troubleshoot network performance. Master key protocols, packet structures, and real-time monitoring to gain insights into your network's behavior and detect suspicious activity.
+  Learn how to use **Wireshark**, one of the most powerful tools for network traffic analysis. Understand how to capture, filter, and analyze packets to identify potential security issues or troubleshoot network performance. Master key protocols, packet structures, and real-time monitoring to gain insights into your network's behaviour and detect suspicious activity.
 
 ---
 
