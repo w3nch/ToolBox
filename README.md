@@ -1,6 +1,5 @@
 # Daily Learning Registry
 <img src="https://media1.tenor.com/m/CgGUXc-LDc4AAAAC/hacker-pc.gif" alt="Daily Learning Registry Logo" width="300" height="300">
-# Daily Learning Registry
 
 Welcome to the **Daily Learning Registry**! This project is designed to serve as a comprehensive repository for all my daily learnings, including tools, one-liners, tricks, techniques, methodologies, and frameworks that I'm exploring in my ongoing journey to enhance my knowledge and skills.
 
