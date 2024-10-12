@@ -29,7 +29,7 @@
   Start a trial with Wazuh cloud services.
 
 - [Wazuh Installation Guide](https://wazuh.com/install/)  
-  Step-by-step instructions to install Wazuh on your environment.
+  Step-by-step instructions on how to install Wazuh in your environment.
 
 - [Wazuh Documentation](https://documentation.wazuh.com/current/index.html)  
   Access the official Wazuh documentation to get detailed insights and instructions.
@@ -53,5 +53,19 @@
 
 - [Elasticsearch Reference](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)  
   Explore the reference guide for Elasticsearch, the core of the ELK stack for search and analytics.
+  
+# Splunk
 
+**Splunk** is a platform for searching, monitoring, and analyzing machine-generated data. It provides insights from various sources and enables real-time security analysis, operational intelligence, and more.
 
+- [Splunk Download](https://www.splunk.com/en_us/download.html)  
+  Download Splunk for on-premise use and explore its features.
+  
+- [Splunk Cloud](https://www.splunk.com/en_us/download/splunk-cloud.html)  
+  Get started with Splunk Cloud by downloading from this link.
+
+- [Splunk Documentation](https://docs.splunk.com/Documentation)  
+  Access the complete documentation for using and managing Splunk.
+
+- [Splunk Training](https://www.splunk.com/en_us/training.html)  
+  Explore training courses to master Splunk and improve your skills in using the platform.
