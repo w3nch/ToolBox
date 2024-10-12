@@ -2,17 +2,13 @@
 
 **SecurityOnion** is free and open-source Linux distribution for intrusion detection, network security monitoring, and log management. It integrates various security tools to help detect and respond to cyber threats effectively.
 
-## Official Website
+- Training [SecurityOnion official youtube](https://www.youtube.com/watch?v=gDlgDE-vbJ8&list=PLljFlTO9rB17E0hOetV_R4Lc0WbEy8q_Y)
 
-- [SecurityOnion Official Site](https://securityonionsolutions.com/)
+- Official Website [SecurityOnion Official Site](https://securityonionsolutions.com/)
 
-## Documentation
+- Documentation [SecurityOnion Documentation](https://docs.securityonion.net/en/2.4/)
 
-- [SecurityOnion Documentation](https://docs.securityonion.net/en/2.4/)
-
-## Installation and Setup
-
-- [Download and Verify ISO](https://github.com/Security-Onion-Solutions/securityonion/blob/2.4/main/DOWNLOAD_AND_VERIFY_ISO.md)
+- Installation and Setup [Download and Verify ISO](https://github.com/Security-Onion-Solutions/securityonion/blob/2.4/main/DOWNLOAD_AND_VERIFY_ISO.md)
 
 ## Cloud Marketplace Availability
 
