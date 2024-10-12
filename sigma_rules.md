@@ -20,12 +20,12 @@ An online platform to convert detections from various SIEM tools into Sigma rule
 To get started with Sigma CLI, follow these steps:
 
 - **Clone the Sigma CLI repository:**
-   ```bash
+```bash
    git clone https://github.com/SigmaHQ/sigma-cli.git
    cd sigma-cli
    poetry install && poetry shell
    sigma --version
-    ```
+ ```
    
 - **install dependencies using Poetry:**
 
