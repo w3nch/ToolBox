@@ -1,7 +1,6 @@
-# 🧠 Daily Learning Guide for Sigma CLI
+# Sigma CLI
 
-Welcome to the **Daily Learning Guide**! This repository is designed to help you understand how to use Sigma CLI effectively, create detection rules, and convert them into formats compatible with various backends like Splunk,Elk,and etc. sigmahq.io
-
+Use sigma CLI effectively, create detection rules, and convert them into formats compatible with various backends like Splunk,Elk,and etc. sigmahq.io
 
 🌐 Useful Tools for Generating Sigma Rules
 
