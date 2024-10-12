@@ -2,20 +2,20 @@
 
 Use sigma CLI effectively, create detection rules, and convert them into formats compatible with various backends like Splunk,Elk,and etc. sigmahq.io
 
-🌐 Useful Tools for Generating Sigma Rules
+Useful Tools for Generating Sigma Rules
 
 To make Sigma rule creation faster and easier, you can use the following tools:
-1. SIGMA Rule Converter
+- SIGMA Rule Converter
 
 A user-friendly tool that helps you convert different query formats (such as SPL, KQL, etc.) into Sigma rules quickly. Great for speeding up the rule generation process.
-2. UUID Generator
+- UUID Generator
 
 This tool generates unique IDs (UUIDs) for your Sigma rules, ensuring that each rule is identifiable and trackable.
-3. Uncoder.io
+- Uncoder.io
 
 An online platform to convert detections from various SIEM tools into Sigma rules. This is part of the official Sigma GitHub project and simplifies writing detections for multiple platforms.
 
-## 🚀 Installation
+## Installation
 
 To get started with Sigma CLI, follow these steps:
 
@@ -56,7 +56,7 @@ sigma plugin list
 | carbonblack    | backend | stable | Carbon Black EDR queries  | yes         |
 ...
 ```
-## 🔧 Proper Configuration of Sigma Rules
+## Configuration
 
 Here’s how to properly configure a Sigma rule with an example for detecting when an Okta user account is locked out. Follow these steps:
 
