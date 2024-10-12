@@ -25,8 +25,6 @@
 
 **Wazuh** is a free, open-source security monitoring platform that provides unified XDR (Extended Detection and Response) and SIEM (Security Information and Event Management) functionalities.
 
-## Useful Links
-
 - [Wazuh Cloud Trial Sign-Up](https://console.cloud.wazuh.com/sign-up?landing=trial)  
   Start a trial with Wazuh cloud services.
 
@@ -36,5 +34,24 @@
 - [Wazuh Documentation](https://documentation.wazuh.com/current/index.html)  
   Access the official Wazuh documentation to get detailed insights and instructions.
 
+
+# ELK (Elastic, Logstash, Kibana)
+
+**ELK** is a powerful set of tools designed for search, log management, and visualization of large datasets. It consists of **Elasticsearch**, **Logstash**, and **Kibana**, providing robust capabilities for monitoring, data analysis, and security management.
+
+- [Elastic Cloud Registration](https://cloud.elastic.co/registration?elektra=en-elasticsearch-page)  
+  Start using Elastic Cloud services by registering here.
+
+- [Elastic Documentation](https://www.elastic.co/docs)  
+  Access comprehensive documentation for Elastic products and services.
+
+- [Kibana Documentation](https://www.elastic.co/guide/en/kibana/current/index.html)  
+  Learn how to use Kibana for data visualization and dashboarding.
+
+- [Logstash Introduction](https://www.elastic.co/guide/en/logstash/current/introduction.html)  
+  An introduction to Logstash, a key tool for data processing pipelines.
+
+- [Elasticsearch Reference](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)  
+  Explore the reference guide for Elasticsearch, the core of the ELK stack for search and analytics.
 
 
