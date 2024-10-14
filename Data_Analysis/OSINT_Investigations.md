@@ -2,7 +2,12 @@
 
 **Open Source Intelligence (OSINT)** refers to the practice of collecting and analyzing publicly available data from various online sources. It plays a crucial role in cybersecurity, threat analysis, and investigative work by providing insights into potential threats and vulnerabilities.
 
----
+## Tools
+- geospy.ai photo geolocation
+- app.osint.industries phone number,email, name
+- pimeyes.com reverse image search
+- whatsmyname.app username
+- urlscan.io
 
 ## 1. IP Reputation / Information
 
@@ -19,7 +24,7 @@ Understanding the potential usage and reputation of an IP address can help ident
 
 ## 2. Domain Reputation / Information
 
-Analyzing the bebehaviournd metadata associated with a domain of interest can help assess its reputation and identify potential risks.
+Analyzing the behaviour metadata associated with a domain of interest can help assess its reputation and identify potential risks.
 
 **Common Tools:**  
 The same tools used for IP reputation can also be applied to domain reputation analysis:
@@ -33,7 +38,7 @@ The same tools used for IP reputation can also be applied to domain reputation a
 
 ## 3. File Reputation
 
-File reputation analysis involves identifying characteristics and bebehavioursssociated with a specific file to determine if it poses a threat.
+File reputation analysis involves identifying characteristics and behaviours associated with a specific file to determine if it poses a threat.
 
 **Common Tools:**
 - [VirusTotal](https://www.virustotal.com): Analyzes files to detect malicious content.
@@ -45,7 +50,7 @@ File reputation analysis involves identifying characteristics and bebehavioursss
 
 ## 4. Threat Intelligence
 
-Threat intelligence aims to uncover additional arartefactshat provide pivot opportunities and insights into the motives and actions of threat actors during an investigation.
+Threat intelligence aims to uncover additional artefacts and provide pivot opportunities and insights into the motives and actions of threat actors during an investigation.
 
 **Common Tools:**
 - [VirusTotal](https://www.virustotal.com)
@@ -53,5 +58,6 @@ Threat intelligence aims to uncover additional arartefactshat provide pivot oppo
 - [MITRE ATT&CK](https://attack.mitre.org): A framework for understanding and analyzing cyber adversary behavior.
 - [MISP (Malware Information Sharing Platform)](https://www.misp-project.org): An open-source threat intelligence platform for sharing structured threat information.
 - [Robtex](https://www.robtex.com): Provides information on IP addresses, domains, and DNS data.
+
 
 
