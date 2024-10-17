@@ -8,6 +8,10 @@
 - pimeyes.com reverse image search
 - whatsmyname.app username
 - urlscan.io
+- data leak:
+  1. weleakinfo.io
+  2. haveibeenpwned.com
+  3. 
 
 ## 1. IP Reputation / Information
 
