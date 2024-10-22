@@ -1,7 +1,7 @@
 # Suricata 
 
 
-##  Installion
+Installation
 
 ``` bash
 sudo apt-get install software-properties-common
